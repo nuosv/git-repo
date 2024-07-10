@@ -1,7 +1,0 @@
-figures/*.png
-.python-version
-.gitignore
-poetry.lock
-pyproject.toml
-README.md
-.DS_Store
