@@ -10,6 +10,9 @@ python = "^3.12"
 matplotlib = "^3.10.0"
 pandas = "^2.2.3"
 
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.5"
+
 [virtualenvs]
 in-project = true
 
