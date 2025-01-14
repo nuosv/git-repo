@@ -7,9 +7,9 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
-matplotlib = "^3.10.0"
-pandas = "^2.2.3"
 feature-engine = "^1.8.2"
+matplotlib = "^3.10.0"
+scikit-learn = "1.5.2"
 
 [tool.poetry.group.dev.dependencies]
 ipykernel = "^6.29.5"
